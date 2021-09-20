@@ -47,7 +47,7 @@ Pascal VOC形式で出力したアノテーションデータを前提として�
 1. PyTorch Lightningインストール(PyTorch Lightning install)
 1. 乱数シード固定(Random seed fixed)
 1. データセットダウンロード(Download Dataset)<Br>自前のデータセットを使用したい方は「use_sample_image = True」をFalseに設定し、<br>「dataset_directory」に自前のデータセットのパスを指定してください
-1. Pascal VOC形式 を MS COCO形式へ変換
+1. Pascal VOC形式 を MS COCO形式へ変換(Convert Pascal VOC format to MS COCO format)
 1. モデル訓練(Training Model)<br>「!python train.py nanodet-m.yml」を実施する前に「nanodet」ディレクトリに「nanodet-m.yml」を格納してください。<br>自前のデータセットを使用する場合「nanodet-m.yml」の以下の項目を変更してください。
     1. クラス数<br>num_classes(model->arch->head->num_classes)
     1. 学習データ 画像格納パス<br>img_path(data->train->img_path)
@@ -58,10 +58,10 @@ Pascal VOC形式で出力したアノテーションデータを前提として�
     1. クラス名リスト<br>class_names
 1. ONNX変換(Convert to ONNX)
 1. ONNXファイル情報確認(Check ONNX file information)
-1. 学習済ファイルダウンロード
+1. 学習済ファイルダウンロード(Download Trained Model)
 
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
  
 # License 
-TFLite-ModelMaker-EfficientDet-Colab-Hands-On is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+NanoDet-Colaboratory-Training-Sample is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
