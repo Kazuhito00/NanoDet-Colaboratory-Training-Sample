@@ -63,4 +63,4 @@ Open your notebook from the [Open In Colab] link and run it in the following ord
 Kazuhito Takahashi(https://twitter.com/KzhtTkhs)
  
 # License 
-NanoDet-Colaboratory-Training-Sample is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+NanoDet-Colaboratory-Training-Sample is under [Apache-2.0 License](LICENSE).
