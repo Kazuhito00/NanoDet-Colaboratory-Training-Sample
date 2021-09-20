@@ -64,4 +64,4 @@ Pascal VOC形式で出力したアノテーションデータを前提として�
 高橋かずひと(https://twitter.com/KzhtTkhs)
  
 # License 
-NanoDet-Colaboratory-Training-Sample is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+NanoDet-Colaboratory-Training-Sample is under [Apache-2.0 License](LICENSE).
