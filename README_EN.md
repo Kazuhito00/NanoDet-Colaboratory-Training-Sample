@@ -1,6 +1,6 @@
 [[Japanese](https://github.com/Kazuhito00/NanoDet-Colaboratory-Training-Sample)/English] 
 
-> **Warning**
+> **Warning**<br>
 > This repository does not support NanoDet-Plus.
 
 # NanoDet-Colaboratory-Training-Sample
