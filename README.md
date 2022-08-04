@@ -1,6 +1,6 @@
 [Japanese/[English](https://github.com/Kazuhito00/NanoDet-Colaboratory-Training-Sample/blob/main/README_EN.md)] 
 
-> **Warning**
+> **Warning**<br>
 > このリポジトリはNanoDet-Plusには対応していません。
 
 # NanoDet-Colaboratory-Training-Sample
